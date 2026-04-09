@@ -1,5 +1,5 @@
-version=0.0.5
-built=2026-04-09 12:47:09
+version=0.0.6
+built=2026-04-09 14:31:01
 board=ESP32-S3
 flash=8MB
 partition=custom
